@@ -26,6 +26,7 @@ class NewsDetailPage extends StatelessWidget {
               style: TextStyle(fontSize: 18.0),
             ),
             SizedBox(height: 16.0),
+            Image.asset(berita.imageAsset),
             // Tambahkan widget lain di sini jika diperlukan
           ],
         ),
