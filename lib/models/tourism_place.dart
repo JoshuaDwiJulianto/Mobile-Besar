@@ -73,9 +73,7 @@ var tourismPlaceList = [
     ticketPrice: '',
     imageAsset: 'assets/images/meeting.jpg',
     imageUrls: [
-      'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/fe/db/75/img-20170415-175634-largejpg.jpg?w=1200&h=-1&s=1',
-      'https://media-cdn.tripadvisor.com/media/photo-o/08/cd/13/a7/the-jhon-s-cianjur-aquatic.jpg',
-      'https://media-cdn.tripadvisor.com/media/photo-o/0e/fe/db/7b/img-20170415-175548-largejpg.jpg?w=1200&h=-1&s=1',
+      
     ],
   ),
   TourismPlace(
@@ -88,9 +86,7 @@ var tourismPlaceList = [
     ticketPrice: '',
     imageAsset: 'assets/images/paintball.jpg',
     imageUrls: [
-      'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/fe/db/75/img-20170415-175634-largejpg.jpg?w=1200&h=-1&s=1',
-      'https://media-cdn.tripadvisor.com/media/photo-o/08/cd/13/a7/the-jhon-s-cianjur-aquatic.jpg',
-      'https://media-cdn.tripadvisor.com/media/photo-o/0e/fe/db/7b/img-20170415-175548-largejpg.jpg?w=1200&h=-1&s=1',
+
     ],
   ),
   TourismPlace(
@@ -103,9 +99,7 @@ var tourismPlaceList = [
     ticketPrice: '',
     imageAsset: 'assets/images/ATV.jpg',
     imageUrls: [
-      'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/fe/db/75/img-20170415-175634-largejpg.jpg?w=1200&h=-1&s=1',
-      'https://media-cdn.tripadvisor.com/media/photo-o/08/cd/13/a7/the-jhon-s-cianjur-aquatic.jpg',
-      'https://media-cdn.tripadvisor.com/media/photo-o/0e/fe/db/7b/img-20170415-175548-largejpg.jpg?w=1200&h=-1&s=1',
+
     ],
   ),
   TourismPlace(

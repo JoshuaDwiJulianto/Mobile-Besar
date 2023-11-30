@@ -15,7 +15,7 @@ class _HomeScreenState extends State<HomeScreen> {
   int currentPage = 0;
   List<Map<String, String>> splashData = [
     {
-      "text": "Welcome to The Jhons Cianjur App",
+      "text": "Welcome to The Jhons Cianjur App Guide",
       "image": "assets/images/splash_1.png"
     },
   ];
