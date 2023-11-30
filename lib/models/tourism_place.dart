@@ -112,9 +112,7 @@ var tourismPlaceList = [
     ticketPrice: '',
     imageAsset: 'assets/images/flyingfox.jpg',
     imageUrls: [
-      'https://thejhons.com/images/jhons-content/flyngfox/WhatsApp_Image_2023-07-10_at_164342_1.jpg',
-      'https://thejhons.com/images/jhons-content/flyngfox/WhatsApp_Image_2023-07-10_at_164342.jpg',
-      '',
+
     ],
   ),
   TourismPlace(
@@ -127,9 +125,7 @@ var tourismPlaceList = [
     ticketPrice: '',
     imageAsset: 'assets/images/outbond.jpg',
     imageUrls: [
-      'https://thejhons.com/images/jhons-content/games/WhatsApp_Image_2023-07-10_at_162210.jpg',
-      'https://thejhons.com/images/jhons-content/games/WhatsApp_Image_2023-07-10_at_162213.jpg',
-      'https://thejhons.com/images/jhons-content/games/WhatsApp_Image_2023-07-10_at_162218.jpg',
+      
     ],
   ),
 ];

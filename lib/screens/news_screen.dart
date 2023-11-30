@@ -21,16 +21,20 @@ class MyApp extends StatelessWidget {
 class NewsPage extends StatelessWidget {
   final List<Berita> daftarBerita = [
     Berita(
+      imageAsset: 'assets/images/diskon.png',
       judul: 'Diskon 50% ticket',
       isi: 'Diskon 50% ticket\n  ',
     ),
     Berita(
+      imageAsset: 'assets/images/berita1.png',
       judul: 'Libur Lebaran 2023 : Cek Harga Tiket dan Jam Operasional Wahana Bermain di The Jhons Cianjur Aquatic Resort',
       isi: 'Libur Lebaran 2023 : Cek Harga Tiket dan Jam Operasional Wahana Bermain di The Jhons Cianjur Aquatic Resort. \n \nWisata The Jhon’s Cianjur Aquatic Resort buka dari pukul 08.00 – 22.00 dan beroperasional setiap hari. \nDikutip dari RadarCianjur.com',
     ),
     Berita(
+      imageAsset: 'assets/images/berita2.jpg',
       judul: 'Berenang di Area Perbukitan dan Hutan The Jhons',
       isi: 'BAGI penikmat wisata air tentu tak akan melewatkan lokasi wisata yang masih berada di kawasan Cianjur kota ini. The Jhons Cianjur Aquatic Resort. Kawasan ini terletak di atas perbukitan dengan suasana yang masih alami dirimbuni dengan pepohonan. Muncul sekitar tahun 2008, kawasan ini langsung menjadi perbincangan di media sosial maupun pencinta traveling.\n \nLokasi tepatnya berada di kawasan hutan Kota Cianjur - Panembong, Jalan Desa Babakan Karet - Kampung Tangkil, Cianjur. Hanya berjarak 15 menit dari pusat Kota Cianjur\n\nPemandangan berbeda akan kita lihat setelah berada di gerbang masuk kawasan wisata ini. Dalam perjalanan, nuansa kampung dan desa yang sepi akan banyak kita jumpai. Namun setelah masuk ke gerbang ini kita akan melihat banyak sekali mobil dan motor yang terparkir dengan kerumunan orang banyak di berbagai tempat di sini\n \ndikutip dari JabarTribunNews.com',
+      
     ),
     // Tambahkan lebih banyak data berita jika diperlukan
   ];
